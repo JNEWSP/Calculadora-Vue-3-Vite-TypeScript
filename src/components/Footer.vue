@@ -7,7 +7,7 @@
         <footer>
           <!-- Aqui vai o rodapé -->
           <p class="text-center">
-            &copy; 2025 Calculadora Aritmética. Todos os direitos reservados.<br />
+            &copy; 2026 Calculadora Aritmética. Todos os direitos reservados.<br />
           </p>
           <p class="dev text-center">
             Desenvolvido por:
